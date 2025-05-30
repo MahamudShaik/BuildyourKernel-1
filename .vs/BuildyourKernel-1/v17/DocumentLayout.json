@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning\\BuildyourKernel-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\step05_jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\step05_jsonresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CA65EB-859C-442E-9959-96972A1D4B7A}|Agents\\Agents.csproj|c:\\learning\\buildyourkernel-1\\agents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CA65EB-859C-442E-9959-96972A1D4B7A}|Agents\\Agents.csproj|solutionrelative:agents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB6BE78-5880-4377-8A01-6C3D58039C6E}|BuildyourKernel-1\\BuildyourKernel-1.csproj|c:\\learning\\buildyourkernel-1\\buildyourkernel-1\\sknativefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB6BE78-5880-4377-8A01-6C3D58039C6E}|BuildyourKernel-1\\BuildyourKernel-1.csproj|solutionrelative:buildyourkernel-1\\sknativefunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB6BE78-5880-4377-8A01-6C3D58039C6E}|BuildyourKernel-1\\BuildyourKernel-1.csproj|c:\\learning\\buildyourkernel-1\\buildyourkernel-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB6BE78-5880-4377-8A01-6C3D58039C6E}|BuildyourKernel-1\\BuildyourKernel-1.csproj|solutionrelative:buildyourkernel-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB6BE78-5880-4377-8A01-6C3D58039C6E}|BuildyourKernel-1\\BuildyourKernel-1.csproj|c:\\learning\\buildyourkernel-1\\buildyourkernel-1\\automaticfunctioninvoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB6BE78-5880-4377-8A01-6C3D58039C6E}|BuildyourKernel-1\\BuildyourKernel-1.csproj|solutionrelative:buildyourkernel-1\\automaticfunctioninvoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA8BFCC-8FFF-4AA1-A096-5C48DD3F2E11}|ConsultantSelection\\ConsultantSelection.csproj|c:\\learning\\buildyourkernel-1\\consultantselection\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA8BFCC-8FFF-4AA1-A096-5C48DD3F2E11}|ConsultantSelection\\ConsultantSelection.csproj|solutionrelative:consultantselection\\selection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA8BFCC-8FFF-4AA1-A096-5C48DD3F2E11}|ConsultantSelection\\ConsultantSelection.csproj|c:\\learning\\buildyourkernel-1\\consultantselection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA8BFCC-8FFF-4AA1-A096-5C48DD3F2E11}|ConsultantSelection\\ConsultantSelection.csproj|solutionrelative:consultantselection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\agents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\agentmessageutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\agentmessageutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\jsonresulttranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\jsonresulttranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\step_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\step_03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\step02_plugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\step02_plugins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\step04_kernelfunctionstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\step04_kernelfunctionstrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\gettingstarted.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\gettingstarted.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ECE21F-026A-43D4-9FF5-0791052ED246}|processframework\\processframework.csproj|c:\\learning\\buildyourkernel-1\\processframework\\processframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53ECE21F-026A-43D4-9FF5-0791052ED246}|processframework\\processframework.csproj|solutionrelative:processframework\\processframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ECE21F-026A-43D4-9FF5-0791052ED246}|processframework\\processframework.csproj|c:\\learning\\buildyourkernel-1\\processframework\\step00\\step00_processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ECE21F-026A-43D4-9FF5-0791052ED246}|processframework\\processframework.csproj|solutionrelative:processframework\\step00\\step00_processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ECE21F-026A-43D4-9FF5-0791052ED246}|processframework\\processframework.csproj|c:\\learning\\buildyourkernel-1\\processframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ECE21F-026A-43D4-9FF5-0791052ED246}|processframework\\processframework.csproj|solutionrelative:processframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|c:\\learning\\buildyourkernel-1\\gettingstarted\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{372BED3B-E759-4567-8786-F02E8B1D45AD}|GettingStarted\\GettingStarted.csproj|solutionrelative:gettingstarted\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "skNativeFunction.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\BuildyourKernel-1\\skNativeFunction.cs",
+              "RelativeDocumentMoniker": "BuildyourKernel-1\\skNativeFunction.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\BuildyourKernel-1\\skNativeFunction.cs",
+              "RelativeToolTip": "BuildyourKernel-1\\skNativeFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:05:41.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutomaticFunctionInvoke.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\BuildyourKernel-1\\AutomaticFunctionInvoke.cs",
+              "RelativeDocumentMoniker": "BuildyourKernel-1\\AutomaticFunctionInvoke.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\BuildyourKernel-1\\AutomaticFunctionInvoke.cs",
+              "RelativeToolTip": "BuildyourKernel-1\\AutomaticFunctionInvoke.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:05:23.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Selection.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\ConsultantSelection\\Selection.cs",
+              "RelativeDocumentMoniker": "ConsultantSelection\\Selection.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\ConsultantSelection\\Selection.cs",
+              "RelativeToolTip": "ConsultantSelection\\Selection.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:05:14.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\BuildyourKernel-1\\Program.cs",
+              "RelativeDocumentMoniker": "BuildyourKernel-1\\Program.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\BuildyourKernel-1\\Program.cs",
+              "RelativeToolTip": "BuildyourKernel-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:58:05.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\Agents\\Program.cs",
+              "RelativeDocumentMoniker": "Agents\\Program.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\Agents\\Program.cs",
+              "RelativeToolTip": "Agents\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:37:27.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Step05_JsonResult.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Step05_JsonResult.cs",
+              "RelativeDocumentMoniker": "GettingStarted\\Step05_JsonResult.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Step05_JsonResult.cs",
+              "RelativeToolTip": "GettingStarted\\Step05_JsonResult.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:52:53.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\ConsultantSelection\\Program.cs",
+              "RelativeDocumentMoniker": "ConsultantSelection\\Program.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\ConsultantSelection\\Program.cs",
+              "RelativeToolTip": "ConsultantSelection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:57:53.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgentMessageUtils.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\AgentMessageUtils.cs",
+              "RelativeDocumentMoniker": "GettingStarted\\AgentMessageUtils.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\AgentMessageUtils.cs",
+              "RelativeToolTip": "GettingStarted\\AgentMessageUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:57:49.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Step02_Plugins.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Step02_Plugins.cs",
+              "RelativeDocumentMoniker": "GettingStarted\\Step02_Plugins.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Step02_Plugins.cs",
+              "RelativeToolTip": "GettingStarted\\Step02_Plugins.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:57:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Program.cs",
+              "RelativeDocumentMoniker": "GettingStarted\\Program.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Program.cs",
+              "RelativeToolTip": "GettingStarted\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:08:45.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "agents.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\agents.cs",
+              "RelativeDocumentMoniker": "GettingStarted\\agents.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\agents.cs",
+              "RelativeToolTip": "GettingStarted\\agents.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:50:24.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Step_03.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Step_03.cs",
+              "RelativeDocumentMoniker": "GettingStarted\\Step_03.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Step_03.cs",
+              "RelativeToolTip": "GettingStarted\\Step_03.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:14:55.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JsonResultTranslator.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\JsonResultTranslator.cs",
+              "RelativeDocumentMoniker": "GettingStarted\\JsonResultTranslator.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\JsonResultTranslator.cs",
+              "RelativeToolTip": "GettingStarted\\JsonResultTranslator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:01:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\processframework\\Program.cs",
+              "RelativeDocumentMoniker": "processframework\\Program.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\processframework\\Program.cs",
+              "RelativeToolTip": "processframework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:44:57.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GettingStarted.csproj",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\GettingStarted.csproj",
+              "RelativeDocumentMoniker": "GettingStarted\\GettingStarted.csproj",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\GettingStarted.csproj",
+              "RelativeToolTip": "GettingStarted\\GettingStarted.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T14:50:12.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Step04_KernelFunctionStrategies.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Step04_KernelFunctionStrategies.cs",
+              "RelativeDocumentMoniker": "GettingStarted\\Step04_KernelFunctionStrategies.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\Step04_KernelFunctionStrategies.cs",
+              "RelativeToolTip": "GettingStarted\\Step04_KernelFunctionStrategies.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:55:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Step00_Processes.cs",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\processframework\\Step00\\Step00_Processes.cs",
+              "RelativeDocumentMoniker": "processframework\\Step00\\Step00_Processes.cs",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\processframework\\Step00\\Step00_Processes.cs",
+              "RelativeToolTip": "processframework\\Step00\\Step00_Processes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T18:46:25.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "processframework.csproj",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\processframework\\processframework.csproj",
+              "RelativeDocumentMoniker": "processframework\\processframework.csproj",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\processframework\\processframework.csproj",
+              "RelativeToolTip": "processframework\\processframework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T18:47:30.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\appsettings.json",
+              "RelativeDocumentMoniker": "GettingStarted\\appsettings.json",
+              "ToolTip": "C:\\Learning\\BuildyourKernel-1\\GettingStarted\\appsettings.json",
+              "RelativeToolTip": "GettingStarted\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T15:50:09.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

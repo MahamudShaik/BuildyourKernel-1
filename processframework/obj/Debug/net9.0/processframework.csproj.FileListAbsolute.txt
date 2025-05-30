@@ -1,0 +1,6 @@
+C:\Learning\BuildyourKernel-1\processframework\obj\Debug\net9.0\processframework.csproj.AssemblyReference.cache
+C:\Learning\BuildyourKernel-1\processframework\obj\Debug\net9.0\processframework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\BuildyourKernel-1\processframework\obj\Debug\net9.0\processframework.AssemblyInfoInputs.cache
+C:\Learning\BuildyourKernel-1\processframework\obj\Debug\net9.0\processframework.AssemblyInfo.cs
+C:\Learning\BuildyourKernel-1\processframework\obj\Debug\net9.0\processframework.csproj.CoreCompileInputs.cache
+C:\Learning\BuildyourKernel-1\processframework\obj\Debug\net9.0\processframework.sourcelink.json

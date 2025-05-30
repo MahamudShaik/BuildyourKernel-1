@@ -1,0 +1,65 @@
+[{
+"title" : "Software Developer",
+"company": "Tech Innovators Inc.",
+"rank" : "Employee"
+}, 
+{
+"title" : "Data Analyst",
+"company": "DataCorp Solutions",
+"rank" : "Employee"
+}, 
+{
+"title" : "Projecgt Manager",
+"company": "Efficient Workflow Ltd.",
+"rank" : "manager"
+},
+{
+"title" : "System Administrator",
+"company": "SecureNet Systems",
+"rank" : "Employee"
+},
+{
+"title" : "UX Designer",
+"company": "Creative Minds Studio",
+"rank" : "Employee"
+},
+{
+"title" : "DevOps Engineer",
+"company": "CloudOps Solutions",
+"rank" : "Employee"
+},
+{
+"title" : "Marketing Specialist",
+"company": "Brand Builders Co.",
+"rank" : "Employee"
+},
+{
+"title" : "Quality Assurance Tester",
+"company": "BugFree Software",
+"rank" : "Employee"
+},
+{
+"title" : "Database Administrator",
+"company": "DataSafe Inc.",
+"rank" : "Employee"
+},
+{
+"title" : "Cybersecurity Analyst",
+"company": "ShieldTech Security",
+"rank" : "Employee"
+},
+{
+"title" : "AI Researcher",
+"company": "FutureTech Labs",
+"rank" : "Employee"
+},
+{
+"title" : "Technical Writer",
+"company": "DocuPro Services",
+"rank" : "Employee"
+},
+{
+"title" : "Product Manager",
+"company": "InnovateNow Ltd.",
+"rank" : "Manager"
+}]
